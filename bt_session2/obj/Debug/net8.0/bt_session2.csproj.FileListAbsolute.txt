@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\bt_session2\bin\Debug\net8.0\bt_session2.exe
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\bt_session2\bin\Debug\net8.0\bt_session2.deps.json
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\bt_session2\bin\Debug\net8.0\bt_session2.runtimeconfig.json
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\bt_session2\bin\Debug\net8.0\bt_session2.dll
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\bt_session2\bin\Debug\net8.0\bt_session2.pdb
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\bt_session2\obj\Debug\net8.0\bt_session2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\bt_session2\obj\Debug\net8.0\bt_session2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\bt_session2\obj\Debug\net8.0\bt_session2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\bt_session2\obj\Debug\net8.0\bt_session2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\bt_session2\obj\Debug\net8.0\bt_session2.sourcelink.json
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\bt_session2\obj\Debug\net8.0\bt_session2.dll
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\bt_session2\obj\Debug\net8.0\refint\bt_session2.dll
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\bt_session2\obj\Debug\net8.0\bt_session2.pdb
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\bt_session2\obj\Debug\net8.0\bt_session2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\bt_session2\obj\Debug\net8.0\ref\bt_session2.dll
