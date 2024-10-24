@@ -73,7 +73,7 @@ Console.WriteLine($"Số phút là: {sophut} phút");
 
 #endregion
 
-#region Bài tập 1: Tính số ngày trong tuần và số ngày lẻ
+#region Bài tập 1: Tính số ngày trong tuần và số ngày lẻ.
 
 #endregion
 
