@@ -1,24 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 // Console.WriteLine("Hello, World!");
 
-#region Bài tập 1: Tính số ngày trong tuần và số ngày lẻ
-// // Input
-// // B1: Người dùng nhập số ngày
-// Console.WriteLine("Nhập số ngày:");
-// string songay = Console.ReadLine();
-// // B2: Convert dữ liệu số ngày thành double cho số ngày
-// double formatsongay = Convert.ToDouble(songay);
-
-// // Process
-// // Tính toán số tuần và số ngày lẻ còn lại.
-// // Ví dụ: người dùng nhập 10 ngày thì số tuần là 1 và ngày lẻ là 3.
-
-
-// // Output
-// // Số tuần và số ngày lẻ.
-
-#endregion
-
 #region Bài tập 2: Tính giá tiền sản phẩm trà sữa sau khi giảm giá
 // Input
 // Nhập giá tiền trà sữa
