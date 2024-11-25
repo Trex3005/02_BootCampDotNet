@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "session8_test", "session8_t
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "session9", "session9\session9.csproj", "{9E828E09-CC88-4AD3-902B-A85A4C57851C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "session10_kethua", "session10_kethua\session10_kethua.csproj", "{8506681F-EEE5-42C1-9244-AEAB3F8C987B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{9E828E09-CC88-4AD3-902B-A85A4C57851C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E828E09-CC88-4AD3-902B-A85A4C57851C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E828E09-CC88-4AD3-902B-A85A4C57851C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8506681F-EEE5-42C1-9244-AEAB3F8C987B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8506681F-EEE5-42C1-9244-AEAB3F8C987B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8506681F-EEE5-42C1-9244-AEAB3F8C987B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8506681F-EEE5-42C1-9244-AEAB3F8C987B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

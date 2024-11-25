@@ -49,5 +49,10 @@
         // nhập thông tin
         // Tính diện tích
         // Tính chu vi
+
+        SanPham sanPham = new SanPham();
+        sanPham.nhapThongtin();
+        sanPham.xuatThongtin();
+
     }
 }
