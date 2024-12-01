@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "session9", "session9\sessio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "session10_kethua", "session10_kethua\session10_kethua.csproj", "{8506681F-EEE5-42C1-9244-AEAB3F8C987B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bt.session3", "bt.session3\bt.session3.csproj", "{8057ED10-7AAA-4333-BE51-8ADD882209F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "session11", "session11\session11.csproj", "{DB6DBD9C-D7CD-4743-AD4B-5CAB0506DDE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{8506681F-EEE5-42C1-9244-AEAB3F8C987B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8506681F-EEE5-42C1-9244-AEAB3F8C987B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8506681F-EEE5-42C1-9244-AEAB3F8C987B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8057ED10-7AAA-4333-BE51-8ADD882209F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8057ED10-7AAA-4333-BE51-8ADD882209F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8057ED10-7AAA-4333-BE51-8ADD882209F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8057ED10-7AAA-4333-BE51-8ADD882209F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB6DBD9C-D7CD-4743-AD4B-5CAB0506DDE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6DBD9C-D7CD-4743-AD4B-5CAB0506DDE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6DBD9C-D7CD-4743-AD4B-5CAB0506DDE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6DBD9C-D7CD-4743-AD4B-5CAB0506DDE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
