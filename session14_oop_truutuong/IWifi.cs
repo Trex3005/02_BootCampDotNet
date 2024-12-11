@@ -1,0 +1,4 @@
+interface Iwifi
+{
+    bool hasWifi();
+}

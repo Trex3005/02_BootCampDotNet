@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\session15_oop_dahinh\bin\Debug\net8.0\session15_oop_dahinh.exe
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\session15_oop_dahinh\bin\Debug\net8.0\session15_oop_dahinh.deps.json
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\session15_oop_dahinh\bin\Debug\net8.0\session15_oop_dahinh.runtimeconfig.json
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\session15_oop_dahinh\bin\Debug\net8.0\session15_oop_dahinh.dll
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\session15_oop_dahinh\bin\Debug\net8.0\session15_oop_dahinh.pdb
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\session15_oop_dahinh\obj\Debug\net8.0\session15_oop_dahinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\session15_oop_dahinh\obj\Debug\net8.0\session15_oop_dahinh.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\session15_oop_dahinh\obj\Debug\net8.0\session15_oop_dahinh.AssemblyInfo.cs
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\session15_oop_dahinh\obj\Debug\net8.0\session15_oop_dahinh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\session15_oop_dahinh\obj\Debug\net8.0\session15_oop_dahinh.sourcelink.json
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\session15_oop_dahinh\obj\Debug\net8.0\session15_oop_dahinh.dll
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\session15_oop_dahinh\obj\Debug\net8.0\refint\session15_oop_dahinh.dll
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\session15_oop_dahinh\obj\Debug\net8.0\session15_oop_dahinh.pdb
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\session15_oop_dahinh\obj\Debug\net8.0\session15_oop_dahinh.genruntimeconfig.cache
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\session15_oop_dahinh\obj\Debug\net8.0\ref\session15_oop_dahinh.dll
