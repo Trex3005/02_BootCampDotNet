@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\chritmas\obj\Debug\net8.0\chritmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\chritmas\obj\Debug\net8.0\chritmas.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\chritmas\obj\Debug\net8.0\chritmas.AssemblyInfo.cs
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\chritmas\obj\Debug\net8.0\chritmas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\chritmas\obj\Debug\net8.0\chritmas.sourcelink.json
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\chritmas\bin\Debug\net8.0\chritmas.exe
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\chritmas\bin\Debug\net8.0\chritmas.deps.json
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\chritmas\bin\Debug\net8.0\chritmas.runtimeconfig.json
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\chritmas\bin\Debug\net8.0\chritmas.dll
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\chritmas\bin\Debug\net8.0\chritmas.pdb
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\chritmas\obj\Debug\net8.0\chritmas.dll
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\chritmas\obj\Debug\net8.0\refint\chritmas.dll
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\chritmas\obj\Debug\net8.0\chritmas.pdb
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\chritmas\obj\Debug\net8.0\chritmas.genruntimeconfig.cache
+C:\Users\Admin\Desktop\cyber_sharp\02_BootCampDotNet\chritmas\obj\Debug\net8.0\ref\chritmas.dll
